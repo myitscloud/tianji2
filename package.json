@@ -36,7 +36,7 @@
     "fs-extra": "^11.2.0",
     "prettier-plugin-tailwindcss": "^0.5.12",
     "release-it": "17.10.0",
-    "tar": "^6.1.15",
+    "tar": "^7.5.19",
     "ts-node": "^10.9.1",
     "tsx": "^4.16.2",
     "typescript": "5.7.2",
